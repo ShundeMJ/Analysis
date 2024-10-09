@@ -1,0 +1,49 @@
+{
+    "pickBatchYear": 2,
+    "pickBatchNumber": 1583,
+    "endLocationNumber": 30862,
+    "pickedList": [
+        {
+            "sku": "MJ0318515000OS0L",
+            "lastActionOnPick": true,
+            "cartonTypeCodeList": [
+                "BKL",
+                "BKL"
+            ],
+            "containerCodeList": [
+                "000000002233333334",
+                "000000002233333334"
+            ],
+            "pickupAmountList": [
+                1,
+                1
+            ],
+            "totalPickedQuantity": 1,
+            "yearNumber": 2,
+            "pickNumber": 3526,
+            "status": "To be confirmed",
+            "attempt": 1
+        },
+        {
+            "sku": "MJ0318515000OS0L",
+            "lastActionOnPick": true,
+            "cartonTypeCodeList": [
+                "BKL",
+                "BKL"
+            ],
+            "containerCodeList": [
+                "000000002233333334",
+                "000000002233333334"
+            ],
+            "pickupAmountList": [
+                1,
+                1
+            ],
+            "totalPickedQuantity": 1,
+            "yearNumber": 2,
+            "pickNumber": 3527,
+            "status": "To be confirmed",
+            "attempt": 1
+        }
+    ]
+}

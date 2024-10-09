@@ -1,0 +1,88 @@
+{
+    "header": {
+        "user_id": "MYJ",
+        "warehouse_code": "MW",
+        "interface_code": "feedback_outbound_order",
+        "user_key": "96e79218965eb72c92a549dd5a330112"
+    },
+    "body": {
+        "order_amount": 1,
+        "order_list": [
+            {
+                "container_list": [
+                    {
+                        "sku_type_amount": 1,
+                        "container_code": "2233333334",
+                        "sku_amount": 2,
+                        "sku_list": [
+                            {
+                                "sku_level": 0,
+                                "amount": 1,
+                                "item": 2,
+                                "out_batch_code": "",
+                                "production_date": -3600000,
+                                "bar_code": "",
+                                "owner_code": "MYJ",
+                                "expiration_date": 4070905200000,
+                                "sku_code": "MJ0318515000OS0L",
+                                "sn_list": []
+                            },
+                            {
+                                "sku_level": 0,
+                                "amount": 1,
+                                "item": 1,
+                                "out_batch_code": "",
+                                "production_date": -3600000,
+                                "bar_code": "",
+                                "owner_code": "MYJ",
+                                "expiration_date": 4070905200000,
+                                "sku_code": "MJ0318515000OS0L",
+                                "sn_list": []
+                            }
+                        ],
+                        "creation_date": 1728472887124,
+                        "picker": "QuintyMastop"
+                    }
+                ],
+                "pick_type": 0,
+                "plan_sku_amount": 2,
+                "container_amount": 1,
+                "warehouse_code": "MW",
+                "owner_code": "MYJ",
+                "pickup_sku_amount": 2,
+                "is_exception": 0,
+                "finish_date": 1728472853920,
+                "lack_flag": 0,
+                "sku_list": [
+                    {
+                        "sku_level": 0,
+                        "item": 1,
+                        "out_batch_code": "",
+                        "bar_code": "",
+                        "owner_code": "MYJ",
+                        "remark": "2/3526",
+                        "pickup_amount": 1,
+                        "plan_amount": 1,
+                        "sku_code": "MJ0318515000OS0L",
+                        "sn_list": []
+                    },
+                    {
+                        "sku_level": 0,
+                        "item": 2,
+                        "out_batch_code": "",
+                        "bar_code": "",
+                        "owner_code": "MYJ",
+                        "remark": "2/3527",
+                        "pickup_amount": 1,
+                        "plan_amount": 1,
+                        "sku_code": "MJ0318515000OS0L",
+                        "sn_list": []
+                    }
+                ],
+                "out_order_code": "2/1583/30862",
+                "order_type": 26,
+                "status": 3
+            }
+        ]
+    }
+}
