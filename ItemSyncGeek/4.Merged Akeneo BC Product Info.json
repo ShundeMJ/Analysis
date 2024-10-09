@@ -61,11 +61,11 @@
                     "value": "Test Geek"
                 }
             ],
-            "productNumber": "MJ12144",
+            "productNumber": "MJ12144", // for product mapping service
             "erpProductName": "TestGeekDescription",
-            "colorCode": "0110",
-            "sizeCode": "OS",
-            "cupCode": "",
+            "colorCode": "0110", // for product mapping service
+            "sizeCode": "OS", // for product mapping service
+            "cupCode": "", // for product mapping service
             "erpPostingGroup": "ACCESSOIRE",
             "erpCategory": "EARRINGS"
         }
