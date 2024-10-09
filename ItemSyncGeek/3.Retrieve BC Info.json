@@ -1,0 +1,15 @@
+{
+    "records": [
+        {
+            "productNumber": "MJ12144",
+            "erpProductName": "TestGeekDescription",
+            "colorCode": "0110",
+            "sizeCode": "OS",
+            "cupCode": "",
+            "ean": "8719954494835",
+            "erpGuid": "85119a53-9654-ef11-bc33-000d3abb96e5",
+            "erpPostingGroup": "ACCESSOIRE",
+            "erpCategory": "EARRINGS"
+        }
+    ]
+}

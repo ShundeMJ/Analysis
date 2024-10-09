@@ -1,0 +1,72 @@
+[
+    {
+        "categories": [
+            "md_jewellery"
+        ],
+        "color": {
+            "code": "base_color_bc_0110",
+            "label-de_DE": "Beige",
+            "label-en_GB": "Beige",
+            "label-en_US": "Beige",
+            "label-fr_FR": "Beige",
+            "label-nl_NL": "Beige"
+        },
+        "colorCode": "0110",
+        "cupCode": null,
+        "ean": "8719954494835",
+        "engravable": true,
+        "erpCategory": "EARRINGS",
+        "erpGuid": "85119a53-9654-ef11-bc33-000d3abb96e5",
+        "erpPostingGroup": "ACCESSOIRE",
+        "erpProductName": "TestGeekDescription",
+        "family": "jewellery_jwl",
+        "flammable": null,
+        "height": {
+            "amount": "1.0000",
+            "unit": "MILLIMETER"
+        },
+        "length": {
+            "amount": "2.0000",
+            "unit": "MILLIMETER"
+        },
+        "productName": [
+            {
+                "language": "en_GB",
+                "value": "TestGeek (en-GB)"
+            },
+            {
+                "language": "en_US",
+                "value": "Name Geek+ Test Product"
+            },
+            {
+                "language": "nl_NL",
+                "value": "Test Geek"
+            }
+        ],
+        "productNumber": "MJ12144",
+        "result": "MJ1214401100OS",
+        "returnable": "0",
+        "size": {
+            "code": "size_os",
+            "label-de_DE": "One size",
+            "label-en_GB": "One size",
+            "label-en_US": "One size",
+            "label-fr_FR": "One size",
+            "label-nl_NL": "One size"
+        },
+        "sizeCode": "OS",
+        "sku": "MJ12144-0110-OS",
+        "volume": {
+            "amount": "5.0000",
+            "unit": "CUBIC_MILLIMETER"
+        },
+        "weight": {
+            "amount": "4.0000",
+            "unit": "GRAM"
+        },
+        "width": {
+            "amount": "3.0000",
+            "unit": "MILLIMETER"
+        }
+    }
+]

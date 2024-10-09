@@ -1,0 +1,243 @@
+{
+    "action": "product_model.updated",
+    "event_id": "c79d32fb-5bfe-4089-a47c-cd1fb42a8eb1",
+    "event_datetime": "2024-08-08T16:16:12+00:00",
+    "author": "Tim_Waijers",
+    "author_type": "ui",
+    "pim_source": "https://my-jewellery-test.cloud.akeneo.com",
+    "data": {
+        "resource": {
+            "uuid": "e67bfeb6-7839-4a8f-9c46-0949072dfd83",
+            "identifier": "MJ12144-0110-OS",
+            "enabled": false,
+            "family": "jewellery_jwl",
+            "categories": [],
+            "groups": [],
+            "parent": "MJ12144-0110",
+            "values": {
+                "size": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": "size_os"
+                    }
+                ],
+                "productgroup": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": "productgroup_bracelets"
+                    }
+                ],
+                "base_color_bc": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": "base_color_bc_0110"
+                    }
+                ],
+                "article_status": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": "article_status_active"
+                    }
+                ],
+                "country_of_origin": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": "country_origin_CN"
+                    }
+                ],
+                "retail_product_code": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": "retail_product_code_bangles"
+                    }
+                ],
+                "rrp": [
+                    {
+                        "locale": null,
+                        "scope": "ecommerce",
+                        "data": [
+                            {
+                                "amount": "10.00",
+                                "currency": "EUR"
+                            }
+                        ]
+                    }
+                ],
+                "ean": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": "8719954494835"
+                    }
+                ],
+                "bc_guid": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": "85119a53-9654-ef11-bc33-000d3abb96e5"
+                    }
+                ],
+                "mj_code": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": "MJ12144"
+                    }
+                ],
+                "erp_name": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": "TestGeek"
+                    }
+                ],
+                "sku": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": "MJ12144-0110-OS"
+                    }
+                ],
+                "weight_bc": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": {
+                            "amount": "0.0000",
+                            "unit": "KILOGRAM"
+                        }
+                    }
+                ],
+                "common_product_status": [
+                    {
+                        "locale": null,
+                        "scope": "ecommerce",
+                        "data": false
+                    },
+                    {
+                        "locale": null,
+                        "scope": "dummy_channel",
+                        "data": false
+                    },
+                    {
+                        "locale": null,
+                        "scope": "ecommerce_b2b",
+                        "data": false
+                    }
+                ],
+                "variant_product_status": [
+                    {
+                        "locale": null,
+                        "scope": "ecommerce",
+                        "data": false
+                    },
+                    {
+                        "locale": null,
+                        "scope": "dummy_channel",
+                        "data": false
+                    },
+                    {
+                        "locale": null,
+                        "scope": "ecommerce_b2b",
+                        "data": false
+                    }
+                ],
+                "brand": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": "brand_my_jewellery"
+                    }
+                ],
+                "return": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": "1"
+                    }
+                ],
+                "age_group": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": "age_group_adult"
+                    }
+                ],
+                "productgroup_old": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": "productgroup_bracelets"
+                    }
+                ],
+                "retail_product_code_old": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": "retail_product_code_bangles"
+                    }
+                ],
+                "width": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": {
+                            "amount": "2.0000",
+                            "unit": "CENTIMETER"
+                        }
+                    }
+                ],
+                "length": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": {
+                            "amount": "2.0000",
+                            "unit": "CENTIMETER"
+                        }
+                    }
+                ],
+                "diameter": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": {
+                            "amount": "1.0000",
+                            "unit": "CENTIMETER"
+                        }
+                    }
+                ],
+                "product_name": [
+                    {
+                        "locale": "en_GB",
+                        "scope": null,
+                        "data": "2 Geek+ Test Product name (en-GB)"
+                    },
+                    {
+                        "locale": "nl_NL",
+                        "scope": null,
+                        "data": "Test Geek"
+                    }
+                ],
+                "weight": [
+                    {
+                        "locale": null,
+                        "scope": null,
+                        "data": {
+                            "amount": "1.0000",
+                            "unit": "KILOGRAM"
+                        }
+                    }
+                ]
+            },
+            "created": "2024-08-07T08:31:39Z",
+            "updated": "2024-08-07T08:31:39Z"
+        }
+    }
+}

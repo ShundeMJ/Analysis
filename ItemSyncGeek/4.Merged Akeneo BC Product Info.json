@@ -1,0 +1,73 @@
+{
+    "records": [
+        {
+            "sku": "MJ12144-0110-OS",
+            "erpGuid": "85119a53-9654-ef11-bc33-000d3abb96e5",
+            "size": {
+                "code": "size_os",
+                "label-nl_NL": "One size",
+                "label-de_DE": "One size",
+                "label-en_GB": "One size",
+                "label-fr_FR": "One size",
+                "label-en_US": "One size"
+            },
+            "color": {
+                "code": "base_color_bc_0110",
+                "label-nl_NL": "Beige",
+                "label-de_DE": "Beige",
+                "label-en_GB": "Beige",
+                "label-fr_FR": "Beige",
+                "label-en_US": "Beige"
+            },
+            "family": "jewellery_jwl",
+            "categories": [
+                "md_jewellery"
+            ],
+            "ean": "8719954494835",
+            "returnable": "0",
+            "flammable": null,
+            "engravable": true,
+            "width": {
+                "amount": "3.0000",
+                "unit": "MILLIMETER"
+            },
+            "height": {
+                "amount": "1.0000",
+                "unit": "MILLIMETER"
+            },
+            "length": {
+                "amount": "2.0000",
+                "unit": "MILLIMETER"
+            },
+            "weight": {
+                "amount": "4.0000",
+                "unit": "GRAM"
+            },
+            "volume": {
+                "amount": "5.0000",
+                "unit": "CUBIC_MILLIMETER"
+            },
+            "productName": [
+                {
+                    "language": "en_GB",
+                    "value": "TestGeek (en-GB)"
+                },
+                {
+                    "language": "en_US",
+                    "value": "Name Geek+ Test Product"
+                },
+                {
+                    "language": "nl_NL",
+                    "value": "Test Geek"
+                }
+            ],
+            "productNumber": "MJ12144",
+            "erpProductName": "TestGeekDescription",
+            "colorCode": "0110",
+            "sizeCode": "OS",
+            "cupCode": "",
+            "erpPostingGroup": "ACCESSOIRE",
+            "erpCategory": "EARRINGS"
+        }
+    ]
+}

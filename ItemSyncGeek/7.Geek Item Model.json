@@ -1,0 +1,30 @@
+{
+    "header": {
+        "warehouse_code": "MW",
+        "user_id": "MW",
+        "user_key": "123456"
+    },
+    "body": {
+        "sku_amount": 1,
+        "sku_list": [
+            {
+                "sku_code": "MJ1214401100OS",
+                "sku_name": "TestGeek",
+                "length": 0.2,
+                "width": 0.2,
+                "height": 0,
+                "volume": 0,
+                "net_weight": 1,
+                "gross_weight": 1,
+                "bar_code_list": [
+                    {
+                        "bar_code": "8719954494835"
+                    }
+                ],
+                "pic_url": null,
+                "owner_code": "MYJ",
+                "is_sequence_sku": 0
+            }
+        ]
+    }
+}
