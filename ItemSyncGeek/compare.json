@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "sku": "MJ1214401100OS",
+            "erpGuid": "e67bfeb6-7839-4a8f-9c46-0949072dfd83",
+            "productName": [
+                {
+                    "locale": "en_US",
+                    "value": "TestGeek"
+                }
+            ],
+            "length": {
+                "amount": "2.0000",
+                "unit": "CENTIMETER"
+            },
+            "width": {
+                "amount": "2.0000",
+                "unit": "CENTIMETER"
+            },
+            "height": null,
+            "volume": null,
+            "weight": {
+                "amount": "1.0000",
+                "unit": "KILOGRAM"
+            },
+            "ean": "8719954494835"
+        }
+    ]
+}
